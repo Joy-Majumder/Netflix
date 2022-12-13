@@ -1,0 +1,1 @@
+window.alert("Netflix Logo animation");
